@@ -1,6 +1,6 @@
 module.exports = {
   //-- SITE SETTINGS -----
-  author: "@bpstdlib",
+  author: "@bptstdlib",
   siteTitle: "Mon site de la mort-qui-tue",
   siteShortTitle: "Le site", // Used as logo text in header, footer, and splash screen
   siteDescription:
@@ -18,13 +18,13 @@ module.exports = {
       tertiary: "#F2F2F2",
       text: "#000000",
       subtext: "#555555",
-      background: "#FFFFFF",
+      background: "#1e1e1e",
       card: "#FFFFFF",
       scrollBar: "rgba(0, 0, 0, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
     },
-    darkTheme: {
+    /* darkTheme: {
       primary: "#07048e",
       secondary: "#08cea1",
       tertiary: "#78da13",
@@ -35,19 +35,19 @@ module.exports = {
       scrollBar: "rgba(255, 255, 255, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
-    },
-    /* darkTheme: {
+    }, */
+    darkTheme: {
       primary: "#FAFAFA",
       secondary: "#2A2926",
       tertiary: "#252525",
       text: "rgba(255, 255, 255, 0.87)",
       subtext: "#AAAAAA",
-      background: "#121212",
+      background: "#454545",
       card: "#1C1C1C",
       scrollBar: "rgba(255, 255, 255, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
-    } */
+    },
   },
   fonts: {
     primary: "Roboto, Arial, sans-serif",
@@ -67,20 +67,20 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/baptiste-renouf-411047197/",
     },
-    {
+    /* {
       name: "Medium",
       url: "https://konstantinmuenster.medium.com/",
-    },
+    }, */
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/Tsaef",
     },
     {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+      name: "Twitter",
+      url: "https://twitter.com/Bptstdlib",
     },
     // {
     //   name: "Mail",
