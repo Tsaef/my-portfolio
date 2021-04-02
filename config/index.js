@@ -7,7 +7,7 @@ module.exports = {
     "Un site créé pendant le workshop pour developper son porte folio avec Azure.",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
   siteLanguage: "FR",
-  siteIcon: "content/favicon.png", // Relative to gatsby-config file
+  siteIcon: "content/hackerman-min.png", // Relative to gatsby-config file
   seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
   
   // -- THEME SETTINGS -----
